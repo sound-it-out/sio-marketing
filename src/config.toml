@@ -1,0 +1,4 @@
+baseURL = "http://sound-it-out.com"
+languageCode = "en-us"
+title = "Sound it out"
+publishDir = "../docs/"
