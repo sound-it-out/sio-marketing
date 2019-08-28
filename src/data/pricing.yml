@@ -1,0 +1,63 @@
+enable : true
+heading : Our Greatest
+headingSpan : Plans
+pricingTable :
+  - title : Pay as you go
+    price : £0
+    time : month
+    btnURL : #
+    btnText : Signup
+    plan :
+      - planDetails : Access to groundbreaking speech synthesis
+      - planDetails : 2gb document storage
+      - planDetails : N/A
+      - planDetails : N/A
+      - planDetails : N/A
+      
+  - title : Silver
+    price : £25
+    time : month
+    btnURL : #
+    btnText : Signup
+    plan :
+      - planDetails : Access to groundbreaking speech synthesis
+      - planDetails : 10gb document storage
+      - planDetails : £30 worth of character tokens
+      - planDetails : 24/7 Tech Support
+      - planDetails : N/A
+      
+  - title : Gold
+    price : £50
+    time : month
+    btnURL : #
+    btnText : Signup
+    plan :
+      - planDetails : Access to groundbreaking speech synthesis
+      - planDetails : 25gb document storage
+      - planDetails : £70 worth of character tokens
+      - planDetails : 24/7 Tech Support
+      - planDetails : N/A
+      
+  - title : Platinum
+    price : £100
+    time : month
+    btnURL : #
+    btnText : Signup
+    plan :
+      - planDetails : Access to groundbreaking speech synthesis
+      - planDetails : Unlimited document storage
+      - planDetails : £150 worth of character tokens
+      - planDetails : 24/7 Tech Support
+      - planDetails : N/A
+
+  - title : Enterprise
+    price : TBD
+    time : month
+    btnURL : #
+    btnText : Contact Us
+    plan :
+      - planDetails : Access to groundbreaking speech synthesis
+      - planDetails : Unlimited document storage
+      - planDetails : Unlimited character tokens
+      - planDetails : 24/7 Tech Support
+      - planDetails : Dedicated server
