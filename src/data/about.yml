@@ -1,0 +1,15 @@
+enable : true
+heading : About
+headingSpan : Us
+aboutItem : 
+- icon : tf-tools
+  title : Custom audio books
+  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+- icon : tf-strategy
+  title : Easy to use
+  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+- icon : tf-anchor2
+  title : Power of AI
+  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
