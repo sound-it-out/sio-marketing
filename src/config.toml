@@ -1,4 +1,4 @@
-baseURL = "https://sound-it-out.com"
+baseURL = "https://www.sound-it-out.com"
 languageCode = "en-us"
 title = "Sound it out"
 theme = "meghna-hugo"
