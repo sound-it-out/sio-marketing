@@ -116,3 +116,6 @@ custom_css = ["css/custom.css"]
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-pinterest-outline"
         url = "#"
+        
+     [params.contact]
+        formEmail = "matthew.hope396@outlook.com"
