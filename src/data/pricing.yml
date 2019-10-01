@@ -5,7 +5,7 @@ pricingTable :
   - title : Pay as you go
     price : £0
     time : month
-    btnURL : #
+    btnURL : https://auth.sound-it-out.com/register
     btnText : Signup
     plan :
       - planDetails : Access to groundbreaking speech synthesis
@@ -17,7 +17,7 @@ pricingTable :
   - title : Silver
     price : £25
     time : month
-    btnURL : #
+    btnURL : https://auth.sound-it-out.com/register
     btnText : Signup
     plan :
       - planDetails : Access to groundbreaking speech synthesis
@@ -29,7 +29,7 @@ pricingTable :
   - title : Gold
     price : £50
     time : month
-    btnURL : #
+    btnURL : https://auth.sound-it-out.com/register
     btnText : Signup
     plan :
       - planDetails : Access to groundbreaking speech synthesis
@@ -41,7 +41,7 @@ pricingTable :
   - title : Platinum
     price : £100
     time : month
-    btnURL : #
+    btnURL : https://auth.sound-it-out.com/register
     btnText : Signup
     plan :
       - planDetails : Access to groundbreaking speech synthesis
@@ -53,7 +53,7 @@ pricingTable :
   - title : Enterprise
     price : TBD
     time : month
-    btnURL : #
+    btnURL : https://www.sound-it-out.com/#contact-us
     btnText : Contact Us
     plan :
       - planDetails : Access to groundbreaking speech synthesis

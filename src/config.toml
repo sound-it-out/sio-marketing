@@ -14,7 +14,7 @@ summaryLength = 10
 # Menu
 [menu]
     [[menu.nav]]
-    name = "About Us"
+    name = "What's in it for you?"
     URL = "about"
     weight = 2
 
@@ -44,39 +44,39 @@ custom_css = ["css/custom.css"]
     [params.banner]
     enable = true
     bgImage = "images/slider/hero-area.jpg"
-    icon = "tf-ion-play"
-    heading = "Experience the new reality"
-    content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+    #icon = "tf-ion-play"
+    heading = "Sound it out"
+    content= "Why read when you can listen?"
     btn = true
-    btnText="Explore Us"
-    btnURL="#services"
+    btnText="Get started"
+    btnURL="#pricing"
 
     # call to action
-    [params.cta]
-    enable = true
-    title = "Great Design & Incredible Features"
-    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
-    btnURL = "#"
-    btnText = "Start a project with us"
+    #[params.cta]
+    #enable = true
+    #title = "Sound it out"
+    #content = "Why read when you can listen?"
+    #btnURL = "#"
+    #btnText = "Start a project with us"
 
     # counter
     [params.counter]
     enable = true
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
-        title = "Happy Clients"
+        title = "Happy users"
         icon = "tf-ion-android-happy"
-        count = "320"
+        count = "0"
 
         [[params.counter.counterItem]]
-        title = "Projects completed"
+        title = "Audio books generated"
         icon = "tf-ion-archive"
-        count = "565"
+        count = "0"
 
         [[params.counter.counterItem]]
         title = "Positive feedback"
         icon = "tf-ion-thumbsup"
-        count = "95"
+        count = "0"
 
         [[params.counter.counterItem]]
         title = "Cups of Coffee"
@@ -85,37 +85,8 @@ custom_css = ["css/custom.css"]
 
     # footer
     [params.footer]
-        copyright = "Themefisher Team"
-        copyrightURL = "http://www.themefisher.com"
-
-        # social Icons
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-facebook"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-twitter"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-google-outline"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-youtube"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-linkedin"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-dribbble-outline"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-pinterest-outline"
-        url = "#"
+        copyright = "Sound It Out"
+        copyrightURL = "https://www.sound-it-out.com"
         
      [params.contact]
         formEmail = "matthew.hope396@outlook.com"
